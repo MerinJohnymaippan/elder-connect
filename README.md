@@ -44,5 +44,5 @@ ElderConnect is an interactive platform providing AI-driven emotional support fo
    ```bash
    git clone https://github.com/your-username/elderconnect.git
    cd elderconnect
-## Screenshots:
-![ElderConnect Screenshot]("C:\Users\merin\OneDrive\Pictures\Screenshots\Screenshot 2025-02-09 095852.png")
+## Video and Screenshots:-
+https://drive.google.com/drive/folders/1wjZf413oG5ygzURm-SDrV1aVoCTO6_86
