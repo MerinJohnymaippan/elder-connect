@@ -1,70 +1,26 @@
-# Getting Started with Create React App
+# ElderConnect - AI-Powered Emotional Support for the Elderly
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**ElderConnect** is an AI-powered platform designed to provide emotional support and personalized care to elderly individuals. By utilizing intelligent conversations, emotion recognition, and helpful reminders, it aims to enhance the well-being and quality of life for seniors. This platform helps users stay on top of essential tasks like taking medication, getting enough sleep, and staying hydrated, providing a comforting and secure companion.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- **AI-Powered Emotional Support**: Engages in conversations and provides comforting advice based on emotional cues.
+- **Emotion Recognition**: Detects emotional states to offer personalized responses and support.
+- **Personalized Reminders**: Set reminders for medication, sleep, water intake, and other important activities.
+- **Speech Recognition**: Allows users to communicate naturally through voice commands for a hands-free experience.
+- **Health and Wellness Tracking**: Helps elderly users manage their daily routines with ease and peace of mind.
 
-### `npm start`
+## Installation
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Prerequisites
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **Node.js** (version 14.x or higher)
+- **Firebase account** (for real-time database)
+- **Google Cloud account** (for Gemini AI integration)
 
-### `npm test`
+### Steps to Run Locally
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/elderconnect.git
+   cd elderconnect
